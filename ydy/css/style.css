@@ -1,0 +1,394 @@
+body{
+	background-color: #F0F0F0;
+     width: 16.0rem;
+}
+.ban{
+	background: url(../img/banner1.jpg) no-repeat center center;
+	background-size: 16.0rem 7.125rem;
+	height: 7.125rem;
+	margin-bottom: 0.5rem;
+}
+.banner{
+	padding-top: 0.375rem;
+     position: fixed;
+     top: 0;
+     left: 0.35rem;
+}
+.banner>div:nth-child(1){
+	color: #fff;
+	font-size: 0.5rem;
+	 width: 1rem;
+ 	height: 0.5rem;
+ 	margin-right: 0.65rem;
+}
+.banner>div:nth-child(1)>p{
+	margin-left: -0.1rem;
+	}
+.banner>div:nth-child(1)>span{
+	font-size: 0.8rem;
+	}
+ .banner input{
+     width: 10.575rem;
+     height: 1.5rem;
+     border-radius: 0.125rem;
+     background-color: #fff;
+     padding-left: 0.55rem;
+     font-size: 0.7rem;
+     color: #B4B4B4;
+}
+}
+ .banner>div:nth-child(2){
+     position: relative;
+}
+ .banner>div:nth-child(2) span{
+     position: absolute;
+     right:3.2rem;
+     top: 0.625rem;
+     font-size: 0.8rem;
+     color: #8C8F94;
+}
+.banner>span{
+	font-size: 1.05rem;
+	color: #fff;
+	margin-left: 0.75rem;
+}
+/*contant*/
+.contant{
+     height: 7.75rem;
+     padding-top: 0.575rem;
+     background-color: #fff;
+     margin-bottom: 0.5rem;
+     box-shadow: 0.025rem 0.075rem 0.25rem #B9B9B9;
+    
+}
+ .contant ul{
+ 	width: 15.75rem;
+ 	padding-left: 0.5rem;
+ }
+ .contant li{
+     width: 2.5rem;
+     height: 3.75rem;
+     float: left;
+     margin-right: 1.2rem;
+}
+ .contant li>div{
+     border-radius: 50%;
+     width: 2.5rem;
+     height: 2.5rem;
+     line-height: 2.5rem;
+     text-align: center;
+}
+ .contant li>div span{
+ 	color: #fff;
+ 	font-size: 1.25rem;
+
+ }
+ .contant li>span{
+ 	height: 0.5rem;
+ 	font-size: 0.5rem;
+ 	text-align: center;
+ 	width: 2.5rem;
+ 	display: inline-block;
+ 	/*line-height: 0.6rem;*/
+ }
+
+.div1{
+	background-color: #FFB20C;
+}
+.div2{
+	background-color: #FF4400;
+}
+.div3{
+	background-color: #22A6F9;
+}
+.div4{
+	background-color: #E45734;
+}
+.div11{
+	background-color: #E2000C;
+}
+.div22{
+	background-color: #FF7E00;
+}
+.div33{
+	background-color: #FF4D49;
+}
+.div44{
+	background-color: #EB3C78;
+}
+/*.cot*/
+.cot{
+	height: 10.3rem;
+	background-color: #fff;
+     margin-bottom: 0.5rem;
+     box-shadow: 0.025rem 0.075rem 0.25rem #B9B9B9;
+}
+.cot_t{
+     height: 1.15rem;
+     border-bottom: 0.025rem solid #DADADA;
+     padding-top: 0.45rem;
+     padding-left: 0.35rem;
+}
+ .cot_t p{
+     font-size: 0.65rem;
+     color: #8F8F8F;
+     border-left: 0.125rem solid #2A89DE;
+     width: 4.1rem;
+     padding-left: 0.3rem;
+     height: 0.65rem;
+}
+.cot_b{
+     height: 8.575rem;
+     font-size: 0.5rem
+}
+.cot_m{
+     margin-left: -0.1rem;
+}
+.cot_b>div{
+     height: 8.7rem;
+}
+.cot_bl{
+     width: 7.8rem;
+}
+.cot_bl{
+     width: 5.75rem;
+     border-right: 0.025rem solid #DADADA;
+     padding-left:0.925rem ;
+}
+.cot_bl>div:nth-child(1){
+     padding-top:1.2rem ;
+     
+     height: 2.45rem;
+}
+.cot_bl>div:nth-child(1)>p{
+     font-weight: 700;
+}
+ 
+.cot_bl img{
+     width: 5.9rem;
+     height: 4.125rem;
+}
+.cot_br_t{
+     height: 4.2rem;
+     border-bottom: 0.025rem solid #DADADA;
+     padding-left: 0.375rem;
+}
+.cot_br_t img{
+     width: 3.825rem;
+     height: 4.075rem;
+}
+.cot_br_t>div:nth-child(1){
+     margin-top: 0.625rem;
+}
+.cot_br_t>div:nth-child(1)>p{
+     font-weight: 700;
+}
+.cot_br_b>div:nth-child(2){
+     margin-top: 0.9rem;
+}
+.cot_br_b>div:nth-child(2)>p{
+     font-weight: 700;
+}
+
+ .cot_br_b {
+     padding-left: 0.375rem; 
+ }
+ .cot_br_b img{
+     width: 3.5rem;
+     height: 3.75rem;
+}
+.banner2{
+     height: 2.5rem;
+     margin-bottom: 0.5rem;
+}
+.banner2 img{
+     height: 2.5rem;
+     width: 15.5rem;
+}
+/*copy1*/
+.cot_bl .im{
+     width: 5.325rem;
+     height: 5.85rem;
+}
+ .cot_bl .im img{
+     width: 5.325rem;
+     height: 5.85rem;
+}
+.cot_br_t .im1,.cot_br_t .im1 img{
+     width: 4.2rem;
+     height: 4.2rem;
+}
+ .cot_br_b .im2{
+     width: 2.4rem;
+     height: 3.85rem;
+}
+.cot_br_b .im2 img{
+     width: 2.4rem;
+     height: 3.85rem;
+}
+
+.cot_s{
+     border-right: none;
+     border-left: 0.025rem solid #DADADA;
+}
+.cot_b .cot_s>div:nth-child(1){
+     height: 1.7rem;     line-height: 0.45rem;
+     padding-top: 0;
+     padding-top: 1.05rem;
+}
+/*banner3*/
+.banner3{
+     height: 2.5rem;
+     margin-bottom: 0.5rem;
+}
+.banner3 img{
+     height: 2.5rem;
+     width: 15.5rem;
+}
+/*copy2*/
+.cot_c1>div:nth-child(1){
+     padding-top: 1rem;
+
+}
+.cot_c1>div:nth-child(2){
+     height: 5.1rem;
+}
+ .cot_c1>div:nth-child(2) img{
+     height: 5.1rem;
+     width: 5.1rem;
+}
+.cot_br .cos1{
+     border-bottom: 0.025rem solid #DADADA;
+     padding-top: 0.475rem;
+     height: 3.725rem;
+     width: 7.4rem;
+     background: url(../img/img_c2.jpg) no-repeat right bottom;
+     background-size: 3.7rem 3.7rem;
+     line-height: 0.75rem;
+
+}
+.cot_br .cos2{
+     background: url(../img/img_c3.jpg) no-repeat 0.5rem 0.325rem;
+     background-size: 3.125rem 4.0rem;
+     padding-left: 3.75rem;
+     padding-top: 0.9rem;
+     line-height: 0.75rem;
+}
+body .cot_ss{
+     margin-bottom: 0;
+}
+/*footer*/
+.footer{
+     height: 0.65rem;
+     padding-top: 0.45rem;
+     padding-bottom: 0.45rem;
+     color: #2A8ADE;
+     font-size: 0.3rem;
+}
+ .footer li{
+     padding: 0 0.4rem;
+     font-size: 0.3rem;
+}
+ .footer li:nth-child(1){
+     border-right: 0.05rem solid #C8C8C8;
+}
+.footer li:nth-child(3){
+     margin-top: -0.05rem;
+}
+/*footer*/
+
+footer{
+     height: 3.0rem;
+     /*text-align: center;*/
+     font-size: 0.3rem;
+     color: #fff;
+}
+footer span{
+     font-size: 12px;
+}
+
+footer>p,footer>div{
+     height: 1.0rem;
+     line-height: 1.0rem;
+
+}
+footer>p{
+     background-color: #1771D2;
+}
+footer>p:nth-child(1){
+     font-size: 0;
+     padding-left: 4.75rem;
+}
+footer>p:nth-child(1) span{
+     padding: 0 0.4rem;
+     border-right: 2px solid #fff;
+}
+.div{
+     background-color:#2A8ADE; 
+     padding-left: 3.75rem;
+}
+footer>div>p{
+     margin-right: 0.3rem;
+}
+footer>div>p{
+     float: left;
+}
+.p3{
+    line-height: 0;
+    width: 16.0rem;
+}
+footer>span{
+     background-color: #1771D2;
+     color: #fff;
+     display: inline-block;
+     height: 1.0rem;
+     line-height: 1.0rem;
+     text-align: center;
+     width: 16.0rem;
+     margin-top:-0.2rem;
+}
+.n{
+     margin-left: -0.3rem;
+}
+body .cot_br .cot_br_t .mm{
+     margin-right: 1.3rem;
+
+}
+body .cot_b .cot_br .bor{
+     border-bottom: none;
+}
+
+/*底部*/
+.db{
+     position: fixed;
+     left: 0;
+     top: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.xj{
+	height: 12.5rem;
+	margin-top: 15.0rem;
+}
